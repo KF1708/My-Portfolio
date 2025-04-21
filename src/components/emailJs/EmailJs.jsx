@@ -1,7 +1,6 @@
 "use client";
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
-import { IoIosSend } from "react-icons/io";
 
 export const Contactme = () => {
   const form = useRef();
