@@ -30,7 +30,7 @@ const Hero = () => {
 
         <button className="kaniz">
           <a
-            href={"/images/kf-resume.pdf"}
+            href={"/images/Kaniz Fatama's resume.pdf"}
             download={"kaniz-resume"}
             className="flex mb-5 px-4 py-2 lg:text-lg lg:font-medium text-base font-light bg-black hover:bg-white hover:text-black transition duration-200 rounded-lg text-white shadow-[0px_2px_0px_0px_#FFFFFF40_inset]"
           >
