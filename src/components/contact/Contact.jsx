@@ -25,7 +25,8 @@ const Contact = () => {
           <IoIosPhonePortrait /> Phone: 703-982-0808
         </h1>
         <h1 className="justify-center flex gap-3 m-1 py-3 font-bold font-serif lg:text-3xl md:text-2xl sm:text-xl text-lg text-stone-500">
-          <CiLinkedin /> Linkdin: kftech.va@gmail.com
+          <CiLinkedin /> Linkdin:
+          https://www.linkedin.com/in/kaniz-fatama-a32ba2367/
         </h1>
       </div>
     </div>
